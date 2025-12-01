@@ -1,6 +1,7 @@
 ---
 itemId: sw-1
 itemTypeName: Deployment
+itemType: CUSTOM
 itemFulfills: SAMD-100
 itemUses: KD-31
 ---
