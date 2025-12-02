@@ -2,6 +2,7 @@
 itemId: tc-1
 itemType: Test Case
 itemTests: sw-1
+introducedInVersion: 2.0.0
 ---
 
 # Test infusion limitations
