@@ -5,7 +5,7 @@ Software item type: SAFETY
 itemFulfills: PR-Image-Overlay-Latency
 ---
 
-# Design Specification: System Architecture
+# Design Specification: System Architecture 1
 
 ## Overview
 
