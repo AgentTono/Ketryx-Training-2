@@ -5,11 +5,13 @@ Software item type: SAFETY
 itemFulfills: PR-Image-Overlay-Latency
 ---
 
-# Design Specification: System Architecture 1
+# Design Specification: System Architecture
 
 ## Overview
 
 AzurionEye is architected as a modular, interface-driven system consisting of three primary elements: an AI Inference Engine, an Image Processing Pipeline, and an X-Ray Control subsystem. Elements communicate via well-defined interfaces and can be developed, tested, and deployed independently.
+
+Make an addition here
 
 ---
 
