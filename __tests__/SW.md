@@ -37,4 +37,3 @@ AzurionEye is architected as a modular, interface-driven system consisting of th
 - **Frame Bus**: Real-time frame transport from Image Processing Pipeline to AI Inference Engine (shared memory, < 5 ms transfer).
 - **Control API**: RESTful API between AI Inference Engine and X-Ray Control for dose optimization commands.
 - **Overlay Channel**: GPU-accelerated overlay compositing from AI Inference Engine to display subsystem.
-- This is a change
